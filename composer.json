@@ -1,5 +1,5 @@
 {
-    "name": "moderntribe/square1-container",
+    "name": "synecdoche/square1-container",
     "type": "library",
     "description": "A dependency injection container wrapper for square one",
     "license": "GPL-2.0-only",
@@ -9,7 +9,7 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "php": "^7.2",
+        "php": ">=7.2",
         "php-di/php-di": "^6.0"
     },
     "autoload": {
